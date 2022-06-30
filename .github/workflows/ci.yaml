@@ -31,4 +31,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: killertiger/fullcicly_ci:latest
+          tags: killertiger/fullcycle_ci:latest
